@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="models_labels">
+        <item>Custom 3D model\n<small><i>Provide your own uri</i></small></item>
+        <item>Astronaut\n<small><i>Google <small>(Poly)</small></i></small></item>
+        <item>Astronaut\n<small><i>Google <small>(Poly)</small></i></small></item>
+        <item>Barramundi Fish\n<small><i>Microsoft <small>(KhronosGroup)</small></i></small></item>
+    </array>
+
+    <array name="models_uris">
+        <item />
+        <item>https://poly.googleapis.com/downloads/fp/1562493657287824/dLHpzNdygsg/f4d6EEz_n3N/Astronaut.gltf</item>
+        <item>https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BarramundiFish/glTF/BarramundiFish.gltf</item>
+    </array>
+
+</resources>
