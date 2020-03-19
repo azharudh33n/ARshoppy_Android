@@ -3,9 +3,9 @@
 
     <array name="models_labels">
         <item>Custom 3D model\n<small><i>Provide your own uri</i></small></item>
-        <item>Couch\n<small><i>Google <small>(Poly)</small></i></small></item>
-        <item>Table\n<small><i>Google <small>(Poly)</small></i></small></item>
-        <item>Vase\n<small><i>Google <small>(Poly)</small></i></small></item>
+        <item>Couch\n<small><i>https://arshoppy.netlify.com/ <small>Shahzia</small></i></small></item>
+        <item>Table\n<small><i>https://arshoppy.netlify.com/<small>Shahzia</small></i></small></item>
+        <item>Vase\n<small><i>https://arshoppy.netlify.com/ <small>Shahzia</small></i></small></item>
     </array>
 
     <array name="models_uris">
