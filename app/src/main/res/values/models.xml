@@ -3,15 +3,16 @@
 
     <array name="models_labels">
         <item>Custom 3D model\n<small><i>Provide your own uri</i></small></item>
-        <item>Astronaut\n<small><i>Google <small>(Poly)</small></i></small></item>
-        <item>Astronaut\n<small><i>Google <small>(Poly)</small></i></small></item>
-        <item>Barramundi Fish\n<small><i>Microsoft <small>(KhronosGroup)</small></i></small></item>
+        <item>Couch\n<small><i>Google <small>(Poly)</small></i></small></item>
+        <item>Table\n<small><i>Google <small>(Poly)</small></i></small></item>
+        <item>Vase\n<small><i>Google <small>(Poly)</small></i></small></item>
     </array>
 
     <array name="models_uris">
         <item />
-        <item>https://poly.googleapis.com/downloads/fp/1562493657287824/dLHpzNdygsg/f4d6EEz_n3N/Astronaut.gltf</item>
-        <item>https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BarramundiFish/glTF/BarramundiFish.gltf</item>
+        <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/couch/couch.gltf</item>
+        <item>https://github.com/azharudh33n/webAR-ARshoppy/blob/master/Objects/table/shesu.gltf</item>
+        <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/vase/final.gltf</item>
     </array>
 
 </resources>
