@@ -14,7 +14,8 @@ import kotlin.math.roundToInt
 /**
  * Adapted from https://github.com/divyanshub024/ColorSeekBar
  */
-class ColorSeekBar(context: Context, attributeSet: AttributeSet) : View(context, attributeSet) {
+class
+ColorSeekBar(context: Context, attributeSet: AttributeSet) : View(context, attributeSet) {
 
     private val minThumbRadius = 16f
     private var colorSeeds = intArrayOf(
