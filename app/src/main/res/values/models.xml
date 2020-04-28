@@ -3,9 +3,11 @@
 
     <array name="models_labels">
         <item>Custom 3D model\n<small><i>Provide your own uri</i></small></item>
-        <item>Couch\n<small><i>https://arshoppy.netlify.com/ <small>Shahzia</small></i></small></item>
-        <item>Table\n<small><i>https://arshoppy.netlify.com/<small>Shahzia</small></i></small></item>
-        <item>Vase\n<small><i>https://arshoppy.netlify.com/ <small>Shahzia</small></i></small></item>
+        <item>Couch\n<small><i>https://arshoppy.netlify.com <small>Shahzia</small></i></small></item>
+        <item>Table\n<small><i>https://arshoppy.netlify.com <small>Shahzia</small></i></small></item>
+        <item>Vase\n<small><i>https://arshoppy.netlify.com <small>Shahzia</small></i></small></item>
+        <item>Desk\n<small><i>https://arshoppy.netlify.com <small>Shahzia</small></i></small></item>
+        <item>Sofa\n<small><i>https://arshoppy.netlify.com <small>Shahzia</small></i></small></item>
     </array>
 
     <array name="models_uris">
@@ -13,6 +15,8 @@
         <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/couch/couch.gltf</item>
         <item>https://github.com/azharudh33n/webAR-ARshoppy/blob/master/Objects/table/shesu.gltf</item>
         <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/vase/final.gltf</item>
+        <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/desk/desk.gltf</item>
+        <item>https://raw.githubusercontent.com/azharudh33n/webAR-ARshoppy/master/Objects/sofa/Sofa_01.gltf</item>
     </array>
 
 </resources>
