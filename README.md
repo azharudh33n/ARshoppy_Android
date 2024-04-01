@@ -1,4 +1,4 @@
-# ARshoppy_Android
+# ARshoppy_Android [Depreciated]
 <h1> Introduction </h1>
 ARShoppy aims to use the technology of
 Augmented Reality (AR) to make E-commerce more interactive, approachable and the most
